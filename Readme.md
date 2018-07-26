@@ -1,4 +1,4 @@
 Git Course
 
 push
-clone
+done
